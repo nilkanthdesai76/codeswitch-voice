@@ -36,8 +36,8 @@ swift build -c release
 ---
 
 ## 📚 Documentation Pillars
-- [PRD.md](PRD.md) — Product specifications and linguistic requirements
-- [ARCHITECTURE.md](ARCHITECTURE.md) — Streaming audio pipeline and multi-stream decoding
+- [PRD.md](docs/PRD.md) — Product specifications and linguistic requirements
+- [ARCHITECTURE.md](docs/ARCHITECTURE.md) — Streaming audio pipeline and multi-stream decoding
 - [AGENTS.md](AGENTS.md) — Operational instructions for AI coding assistants
-- [TESTING.md](TESTING.md) — Multilingual stitching and ring buffer verification
-- [SECURITY.md](SECURITY.md) — Ephemeral RAM audio and zero-cloud policies
+- [TESTING.md](docs/TESTING.md) — Multilingual stitching and ring buffer verification
+- [SECURITY.md](docs/SECURITY.md) — Ephemeral RAM audio and zero-cloud policies
